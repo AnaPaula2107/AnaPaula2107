@@ -4,6 +4,8 @@
 
 Me chamo Ana Paula, sou profissional com mais de 10 anos de experiência em operações, qualidade e análise de indicadores, atualmente em transição para a área de Dados e Business Intelligence. Tenho conhecimento em Excel, Power BI e estou em desenvolvimento contínuo em Python, SQL e análise de dados. Utilizo este repositório para compartilhar projetos práticos desenvolvidos em cursos e estudos, com foco em organização de dados, relatórios e dashboards.
 
+[💼 LinkedIn](www.linkedin.com/in/ana-paula-azevedo-1827571a1)
+
 ---
 
 ### 🎯 Foco profissional
